@@ -1,0 +1,9 @@
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+  margin: 500px;
+  color: darkblue;
+}
+* {
+  margin: 0;
+}
